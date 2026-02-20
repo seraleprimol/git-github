@@ -15,4 +15,5 @@ Te dejo la lista y mi primera contribución.
 
 |Nombre|Usuario de Github|Red social más utilizada|
 |------|-----------------|------------------------|
-|Sergio Prieto|seraleprimol|NA|
+
+|Sergio Prieto|seraleprimol|Instagram|
